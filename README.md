@@ -57,10 +57,6 @@
     &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dene-mark-922a60273/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/vDRQFTs2QPLh" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/q5kGW4PS" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
-  &nbsp;&nbsp;
   <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp.png"  width="40" />+1 832 699 0288</a>
   &nbsp;&nbsp;
   </div>
