@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Senior Full Stack Developer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 ## Core Skills
@@ -54,9 +52,7 @@
 <code><img height="45" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 
-## Github Stats
-
-## <p align="center">😇 Contact Me 😇</p>
+## <p align="center"> Contact Me </p>
   <div align="center"> 
    <a href="mailto:hitmandenemark@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
     &nbsp;&nbsp;
